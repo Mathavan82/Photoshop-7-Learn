@@ -1,0 +1,30 @@
+#bener{
+	background-color: #3000FF;
+	width: 450px;
+	height: 40px;
+	border-width:2px;
+	border-color:black;
+	border-radius: 30px;
+	
+}
+.wel{
+	font-family: arial;
+	color: white;
+	font-size: 30px;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.center{
+	float:center ;
+}
+p{
+	font-family: arial;
+}
+.user{
+	float: right;
+	
+}
